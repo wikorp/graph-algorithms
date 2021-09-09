@@ -1,7 +1,7 @@
 # graph-algorithms
 The aim of the project is to implement and measure the execution time of selected graph algorithms that solve the following problems:
 
-a) determination of the minimal spanning tree (MST) with the Prima algorithm
+a) determination of the minimal spanning tree (MST) with the Prim algorithm
 
 b) determining the shortest path in the graph - Dijkstra's algorithm
 
